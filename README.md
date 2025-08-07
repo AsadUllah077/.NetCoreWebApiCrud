@@ -16,7 +16,7 @@ This project is a simple and clean implementation of a **CRUD (Create, Read, Upd
 
 ## 🧱 Tech Stack
 
-- .NET Core 6
+- .NET Core 8
 - C#
 - Entity Framework Core
 - SQL Server (or LocalDB)
@@ -26,7 +26,7 @@ This project is a simple and clean implementation of a **CRUD (Create, Read, Upd
 
 ### Prerequisites
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - Visual Studio 2022 or Visual Studio Code
 - SQL Server / LocalDB
 
